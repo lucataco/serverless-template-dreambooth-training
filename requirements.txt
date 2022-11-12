@@ -1,3 +1,19 @@
+git+https://github.com/ShivamShrirao/diffusers.git
+accelerate==0.12.0
+functorch==0.2.1
+ftfy==4.4.3
 sanic==22.6.2
+pyre-extensions == 0.0.23
+torch >= 1.12
 transformers
-accelerate
+bitsandbytes-cuda116
+ninja
+natsort
+scipy
+boto3
+OmegaConf
+numpy
+deepspeed
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
