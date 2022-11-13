@@ -1,7 +1,7 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to serve ML models in production using simple HTTP servers.
+This repo provides a basic framework for training Dreambooth Stable Diffusion in production on Banana's serverless GPU platform. The provided example includes upload and download methods to google drive folders to receive/download training images and push/upload compiled ckpt files
 
 # Quickstart
 **[Follow the quickstart guide in Banana's documentation to use this repo](https://docs.banana.dev/banana-docs/quickstart).** 
