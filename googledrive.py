@@ -54,7 +54,7 @@ def download(file_id):
         print(F'An error occurred: {error}')
         file = None
 
-    #Save as ppa.zip
+    #Save as sks.zip
     with open('sks.zip', 'wb') as f:
         f.write(file.getvalue())
     return org_file_name
